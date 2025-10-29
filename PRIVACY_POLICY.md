@@ -1,6 +1,6 @@
 # Privacy Policy for Paradi Group Management Dashboard
 
-**Last Updated:** October 29, 2024
+**Last Updated:** October 29, 2025
 
 ## 1. Introduction
 
