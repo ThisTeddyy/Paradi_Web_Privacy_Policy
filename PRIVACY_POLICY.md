@@ -1,6 +1,6 @@
 # Privacy Policy for Paradi Group Management Dashboard
 
-**Last Updated:** October 29, 2025
+**Last Updated:** October 29, 2024
 
 ## 1. Introduction
 
@@ -177,6 +177,8 @@ We strive to comply with:
 ## 13. Contact Us
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your data, please contact us:
+
+> **Note:** Replace the placeholders below with your actual contact information before deploying this policy.
 
 **Email:** [Your Contact Email]  
 **Support Portal:** [Your Support URL]  
