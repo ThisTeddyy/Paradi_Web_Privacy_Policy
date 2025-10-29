@@ -180,9 +180,8 @@ If you have questions, concerns, or requests regarding this Privacy Policy or yo
 
 > **Note:** Replace the placeholders below with your actual contact information before deploying this policy.
 
-**Email:** [Your Contact Email]  
-**Support Portal:** [Your Support URL]  
-**Mailing Address:** [Your Physical Address]
+**Email:** justin@marshmallow-services.com
+**Support Portal:** https://discord.gg/paradi
 
 For Roblox-specific privacy concerns, please also refer to:  
 **Roblox Privacy Policy:** https://www.roblox.com/info/privacy
